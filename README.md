@@ -1,4 +1,4 @@
-<h1>Project shaco page</h1>
+<h1>Shaco Page Project</h1>
 <p><b>Introducing Champion Shaco from the online game League of Legends 🎮</b></p>
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
@@ -31,13 +31,13 @@
 
 <p>The page has been divided into four sections: Home, History, Skills and Skins.<p>
 
-<h3>Sessão Início: 🔁</h3>
+<h3>Session Start: 🔁</h3>
 
-<h3>Sessão História: 🔁</h3>
+<h3>History Session: 🔁</h3>
 
-<h3>Sessão Habilidades: 🔁</h3>
+<h3>Session Skills: 🔁</h3>
 
-<h3>Sessão Skins: 🔁</h3>
+<h3>Skins Session: 🔁</h3>
 
 <h2 id="author">Author:</h2>
 
