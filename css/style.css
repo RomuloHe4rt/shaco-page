@@ -208,9 +208,9 @@ blockquote {
 }
 
 .region img {
-  width: 80px;
+  width: 90px;
   height: auto;
-  margin: 1em;
+  margin: 2em;
   filter: saturate(130%);
 }
 
