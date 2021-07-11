@@ -210,6 +210,7 @@ blockquote {
 .region img {
   width: 80px;
   height: auto;
+  margin: 1em;
   filter: saturate(130%);
 }
 
@@ -644,12 +645,6 @@ footer ul li a {
   .about-content .btn {
     margin-top: 2rem;
     float: left;
-  }
-
-  .box {
-    margin-left: 120px;
-    transform: rotate(-90deg);
-    height: 310px;
   }
 
   .skills-section {

@@ -31,14 +31,17 @@
 
 <p>The page has been divided into four sections: Home, History, Skills and Skins.<p>
 
-<h3>Session Start: 🔁</h3>
+<h3>Session Start:</h3>
+<img src="https://i.imgur.com/8b1s1aS.png" />
 
-<h3>History Session: 🔁</h3>
+<h3>History Session:</h3>
+<img src="https://i.imgur.com/A6VAizG.png" />
 
-<h3>Session Skills: 🔁</h3>
+<h3>Session Skills:</h3>
+<img src="https://i.imgur.com/t5GR0rP.png" />
 
-<h3>Skins Session: 🔁</h3>
-
+<h3>Skins Session:</h3>
+<img src="https://i.imgur.com/ZPo4ojS.png" />
 <h2 id="author">Author:</h2>
 
 <h3>Rômulo Silva</h3>
@@ -52,4 +55,4 @@
   </a> 
   <a href="https://www.instagram.com/romulohe4rt/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> 
+  </a>
